@@ -100,3 +100,5 @@ Testing has not yet been completed or confirmed.
 
 **Project:** Reaper Expense Tracker  
 **Motto:** BUILD. EARN. EVOLVE.
+
+https://github.com/ImmortalReaperHQ/reaper-expense-tracker
